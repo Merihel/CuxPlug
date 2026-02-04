@@ -6,7 +6,7 @@ International plugins for [CloudStream](https://cloudstream.on.fleek.co) develop
 
 ---
 ## Installation
-### [Automatic](https://self-similarity.github.io/http-protocol-redirector?r=cloudstreamrepo://raw.githubusercontent.com/ycngmn/CuxPlug/refs/heads/main/repo.json)
+### [Automatic](https://self-similarity.github.io/http-protocol-redirector?r=cloudstreamrepo://raw.githubusercontent.com/Merihel/CuxPlug/refs/heads/main/repo.json)
 ### Manual
 - Navigate
     - Settings
@@ -14,7 +14,7 @@ International plugins for [CloudStream](https://cloudstream.on.fleek.co) develop
     - add repository
 - in repository URL, input either
     - short-code: `CuxPlug`
-    - direct-link: `https://raw.githubusercontent.com/ycngmn/CuxPlug/refs/heads/main/repo.json`
+    - direct-link: `https://raw.githubusercontent.com/Merihel/CuxPlug/refs/heads/main/repo.json`
 ---
 ## Extensions
 - [**Watch32**](https://watch32.sx): Watch32 is a Free Movies streaming site with over 10000 movies and TV-Series.

@@ -5,6 +5,7 @@ import org.jetbrains.kotlin.gradle.dsl.JvmTarget
 import org.jetbrains.kotlin.gradle.tasks.KotlinJvmCompile
 
 buildscript {
+    ext.kotlin_version = '2.3.0'
     repositories {
         google()
         mavenCentral()
@@ -74,7 +75,7 @@ subprojects {
         val implementation by configurations
 
         // Stubs for all cloudstream classes
-        cloudstream("com.lagradost:cloudstream3:v4.6.0")
+        cloudstream("com.lagradost:cloudstream3")
 
         // These dependencies can include any of those which are added by the app,
         // but you don't need to include any of them if you don't need them.

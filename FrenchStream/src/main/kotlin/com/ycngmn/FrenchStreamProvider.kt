@@ -31,7 +31,7 @@ import java.util.regex.Pattern
 
 class FrenchStreamProvider : MainAPI() {
 
-    override var mainUrl = "https://fs2.lol"
+    override var mainUrl = "https://fs9.lol"
     private val animeUrl = "https://w14.french-manga.net"
     override var name = "French-Stream"
     override val supportedTypes = setOf(
